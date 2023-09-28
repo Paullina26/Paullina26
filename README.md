@@ -12,10 +12,6 @@ W wolnym czasie gram w gry z gatunku strategiczno-ekonomiczne, survival i RPG. N
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Paullina26&show_icons=true)  
 
-
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Paullina26)  
-
 <br><h2> Kontakt</h2>[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/paulina-golenia26/)
 
 </br><h2>Umiejętności</h2>
