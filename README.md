@@ -11,7 +11,11 @@ W wolnym czasie gram w gry z gatunku strategiczno-ekonomiczne, survival i RPG. N
 <br><h2> Kontakt</h2>[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/paulina-golenia26/)
 
 </br><h2>Umiejętności</h2>
-JavaScript, React, Style-component, Sass, Scss, Css, HTML
+--JavaScript-- 
+--React--
+style-component
+--CSS--
+Sass, Scss, Css,
 
 <!--
 **Paullina26/Paullina26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
