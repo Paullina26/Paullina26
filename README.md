@@ -5,12 +5,7 @@ Odnajduje się w zadaniach, gdzie mogę dokonać analizy, by rozwiązać problem
 W wolnym czasie gram w gry z gatunku strategiczno-ekonomiczne, survival i RPG. Najchętniej gram w trybie co-op, pozwoliło mi to dostrzec jak komunikacja i planowanie wspólnych działań wpływa na sukces całej grupy.
 
 ![GitHub metrics](https://metrics.lecoq.io/Paullina26)  
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Paullina26)  
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paullina26)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 <br><h2> Kontakt</h2>[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/paulina-golenia26/)
 
