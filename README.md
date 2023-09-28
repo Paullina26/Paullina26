@@ -1,4 +1,13 @@
-### Hi there 👋
+### Cześć👋 Jestem Paulina 
+
+Jestem zafascynowana światem technologii i jej postępu na przestrzeni lat.
+Odnajduje się w zadaniach, gdzie mogę dokonać analizy, by rozwiązać problem. 
+Chętnie działam w obszarach, które sprawiają, że praca może stać się bardziej efektywna. 
+Testowanie nowych rozwiązań i czynny udział w ich udoskonalaniu sprawia mi satysfakcje.
+W wolnym czasie gram w gry z gatunku strategiczno-ekonomiczne, survival i RPG. Najchętniej gram w trybie co-op, pozwoliło mi to dostrzec jak komunikacja i planowanie wspólnych działań wpływa na sukces całej grupy.
+
+<br>## Connect with me[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/paulina-golenia26/)[<img align="left" alt="medium" 
+
 
 <!--
 **Paullina26/Paullina26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
