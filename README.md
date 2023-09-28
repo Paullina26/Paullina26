@@ -16,11 +16,11 @@ JavaScript | React | style-component | CSS | SCSS | SASS | HTML
 
 </br><h2>Projekty</h2>
 <br><h3>Serwis ogłoszeniowy</h3>
-Status Projektu: W trakcie 
-Technologie: JavaScript, React, style-component
-Cele projektu: 
+<br>Status Projektu: W trakcie 
+<br>Technologie: JavaScript, React, style-component
+<br>Cele projektu: 
 Obsługa użytkowników. Dodawanie, filtrowanie ogłoszeń. Komunikacja z bazą danych.
-Opis projektu: 
+<br>Opis projektu: 
 Jest to uproszczona wersja popularnego serwisu ogłoszeniowego.  
 
 <br><h3>Karty Star Wars</h3>
