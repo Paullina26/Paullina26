@@ -5,7 +5,7 @@ Odnajduje się w zadaniach, gdzie mogę dokonać analizy, by rozwiązać problem
 W wolnym czasie gram w gry z gatunku strategiczno-ekonomiczne, survival i RPG. Najchętniej gram w trybie co-op, pozwoliło mi to dostrzec jak komunikacja i planowanie wspólnych działań wpływa na sukces całej grupy.
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Paullina26&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paullina26)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paullina26)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Paullina26&show_icons=true) 
 
 
 
@@ -14,6 +14,12 @@ W wolnym czasie gram w gry z gatunku strategiczno-ekonomiczne, survival i RPG. N
 </br><h2>Umiejętności</h2>
 JavaScript | React | style-component | CSS | SCSS | SASS | HTML
 
+
+
+
+
+
+<!--
 </br><h2>Projekty</h2>
 <br><h3>Serwis ogłoszeniowy</h3>
 <br>Status Projektu: W trakcie 
@@ -22,11 +28,8 @@ JavaScript | React | style-component | CSS | SCSS | SASS | HTML
 Obsługa użytkowników. Dodawanie, filtrowanie ogłoszeń. Komunikacja z bazą danych.
 <br>Opis projektu: 
 Jest to uproszczona wersja popularnego serwisu ogłoszeniowego.  
-
 <br><h3>Karty Star Wars</h3>
-
 <br>![GitHub metrics](https://metrics.lecoq.io/Paullina26)  
-<!--
 **Paullina26/Paullina26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
