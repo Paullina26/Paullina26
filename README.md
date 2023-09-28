@@ -14,6 +14,10 @@ W wolnym czasie gram w gry z gatunku strategiczno-ekonomiczne, survival i RPG. N
 </br><h2>Umiejętności</h2>
 <br>JavaScript | React | style-component | CSS | SCSS | SASS | HTML
 
+</br><h2>Projekty</h2>
+<br><h3>Serwis ogłoszeniowy</h3>
+<br><h3>Karty Star Wars</h3>
+
 <br>![GitHub metrics](https://metrics.lecoq.io/Paullina26)  
 <!--
 **Paullina26/Paullina26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
