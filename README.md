@@ -15,9 +15,9 @@ W wolnym czasie gram w gry z gatunku strategiczno-ekonomiczne, survival i RPG. N
 
 </br><h2>Projekty</h2>
 <br><h3>Serwis ogłoszeniowy</h3>
+<br>[![My Skills](https://skillicons.dev/icons?i=html,js,react,styledcomponents,git)](https://skillicons.dev)
 <br>Status Projektu: W trakcie 
 <br>Technologie: JavaScript, React, style-component 
-<br>[![My Skills](https://skillicons.dev/icons?i=html,js,react,styledcomponents,git)](https://skillicons.dev)
 <br>Cele projektu: 
 -Obsługa użytkowników. 
 -Dodawanie, filtrowanie ogłoszeń. 
