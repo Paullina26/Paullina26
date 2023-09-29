@@ -3,7 +3,7 @@
 Jestem zafascynowana światem technologii i jej postępu na przestrzeni lat.
 Odnajduje się w zadaniach, gdzie mogę dokonać analizy, by rozwiązać problem. Chętnie działam w obszarach, które sprawiają, że praca może stać się bardziej efektywna. Testowanie nowych rozwiązań i czynny udział w ich udoskonalaniu sprawia mi satysfakcje.
 W wolnym czasie gram w gry z gatunku strategiczno-ekonomiczne, survival i RPG. Najchętniej gram w trybie co-op, pozwoliło mi to dostrzec jak komunikacja i planowanie wspólnych działań wpływa na sukces całej grupy.
-![Paulina GitHub stats](https://github-readme-stats.vercel.app/api?username=Paullina26&show_icons=true&theme=transparent)
+
 
 </br><h2>Umiejętności</h2>
 | HTML | CSS | SASS | JavaScript | Ract | Style-Component | Git |
@@ -12,9 +12,9 @@ W wolnym czasie gram w gry z gatunku strategiczno-ekonomiczne, survival i RPG. N
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paullina26&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+</br><h2>Statystyki</h2>
+![Paulina GitHub stats](https://github-readme-stats.vercel.app/api?username=Paullina26&show_icons=true&theme=transparent)
 </br><h2>Projekty</h2>
-
 <br><p>🔭🔭🔭Serwis ogłoszeniowy🔭🔭🔭</p>
 <br>[![My Skills](https://skillicons.dev/icons?i=html,js,react,styledcomponents,git)](https://skillicons.dev)
 <br>🌱Technologie: JavaScript, React, style-component 
