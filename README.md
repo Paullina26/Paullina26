@@ -19,26 +19,21 @@ W wolnym czasie gram w gry z gatunku strategiczno-ekonomiczne, survival i RPG. N
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 <br> Backend: Zofia Janas 
 <br>⚡Status Projektu: W trakcie 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 <br>[![My Skills](https://skillicons.dev/icons?i=html,js,react,styledcomponents,git)](https://skillicons.dev)
 <br>🌱Technologie: JavaScript, React, style-component 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 <br>🌱Cele projektu: 
 <br>  *Obsługa użytkowników. 
 <br>  *Dodawanie, filtrowanie i wyświetlanie ogłoszeń.
 <br>  *Komunikacja z bazą danych. 
 <br>  *Operacje na tablicach 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 <br>🌱Projekt pozwolił mi na przeciwiczenie umiejętności:
 <br>  Operacji na tablicach map, filter, scalanie tablic, tworzenie nowych tablic by nie zmieniać bazowej tablicy. 
 <br>  Zarządzanie stanem komponentu 
 <br>  Zapytania do bazy danych.
 <br>  Stylowanie za pomocą style-component. 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 <br>⚡Opis projektu: 
 <br>Jest to uproszczona wersja popularnego serwisu ogłoszeniowego. Zawiera kilka kategorii produktów, województwa w polsce i typ ogłoszenia kupno/sprzedaż. 
 <br>Użytkownik może dodadać ogłoszenie, a zalogowany użytkownik ma dodatkowe możliwości takie jak: podgląd dodanych ogłoszeń, dodawanie do polubionych ogłoszeń.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 <br>⚡Obecnie pracuje nad:
 <br> 14.09.2023 - Spójnością nazewnictwa komponentów i refaktoryzacją kodu. Chciałabym zapewnić lepszą czytelność kodu jak i reużywalność komponentów. 
 <br>⚡Planowane prace:
