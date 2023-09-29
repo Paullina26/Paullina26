@@ -39,8 +39,7 @@ W wolnym czasie gram w gry z gatunku strategiczno-ekonomiczne, survival i RPG. N
 <br> Użytkownik może dodadać ogłoszenie, a zalogowany użytkownik ma dodatkowe możliwości takie jak: podgląd dodanych ogłoszeń, dodawanie do polubionych ogłoszeń.
 <br><p>[Więcej informacji o projekcie: cele projektu, obecne prace, planowane zmiany ](https://github.com/Paullina26/Serwis_ogloszeniowy)</p>
 
-<br><h2> Kontakt</h2>
-
+<br>
 <br>![Paulina GitHub stats](https://github-readme-stats.vercel.app/api?username=Paullina26&show_icons=true)
 
 
