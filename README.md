@@ -17,21 +17,21 @@ W wolnym czasie gram w gry z gatunku strategiczno-ekonomiczne, survival i RPG. N
 
 
 
-</br><h2>Plany na rozwój</h2>
-<br><h3>🌱Rozszerzyć umiejęności z zakresu programownia🌱</h3>
+</br><h2>🚀🚀Plany na rozwój🚀🚀</h2>
+<br><h3>🚀Rozszerzyć umiejęności z zakresu programownia</h3>
 <br>
 <span>![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)</span>
 <span>![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)</span>
 <span>![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)</span>
 <span>![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)</span>
-<br>⚡Na pwenym etapie nauki dostrzegłam, że możliwości w programowaniu są ogromne a wybór nie był najprostrzy. Postanowiłam postawić sobie realne cele, których realizacja nie będzie przerażała a dążenie do nich będzie czymś satysfakcjonującym. 
+<br>📝Na pwenym etapie nauki dostrzegłam, że możliwości w programowaniu są ogromne a wybór nie był najprostrzy. Postanowiłam postawić sobie realne cele, których realizacja nie będzie przerażała a dążenie do nich będzie czymś satysfakcjonującym. 
 <br> 
 
-<br><h3>🌱Hobby🌱</h3>
+<br><h3>🚀Hobby</h3>
 <br>
 <span>![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)</span>
 <span>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</span>
-<br>⚡Jako osoba z zamiłowaniem do technologii i szukająca oszczędności. Chciałam wyposażyć swoje mieszkanie w drobne elementy "smarthome", stąd moja chęć do nauki raspberrypi. 
+<br>📝Jako osoba z zamiłowaniem do technologii i szukająca oszczędności. Chciałam wyposażyć swoje mieszkanie w drobne elementy "smarthome", stąd moja chęć do nauki raspberrypi. 
 <br> Na chwilę obecną rozwijanie hobby odchodzi na dalszy plan, ze względu na piorytety w ścierzce rozwoju kariery, udoskonalanie umiejętności z zakresu Frond-End. 
 
 </br><h2>Projekty</h2>
@@ -45,7 +45,7 @@ W wolnym czasie gram w gry z gatunku strategiczno-ekonomiczne, survival i RPG. N
 <br>👯Backend: [Zofia Janas](https://github.com/zoska91)
 <br>⚡Status Projektu: W trakcie 
 <br>
-<br>⚡Opis projektu: 
+<br>📝Opis projektu: 
 <br> Jest to uproszczona wersja popularnego serwisu ogłoszeniowego. Zawiera kilka kategorii produktów, województwa w polsce i typ ogłoszenia kupno/sprzedaż. 
 <br> Użytkownik może dodadać ogłoszenie, a zalogowany użytkownik ma dodatkowe możliwości takie jak: podgląd dodanych ogłoszeń, dodawanie do polubionych ogłoszeń.
 <br><p>[Więcej informacji o projekcie: cele projektu, obecne prace, planowane zmiany ](https://github.com/Paullina26/Serwis_ogloszeniowy)</p>
@@ -61,6 +61,8 @@ W wolnym czasie gram w gry z gatunku strategiczno-ekonomiczne, survival i RPG. N
 
 
 <!--
+ICON:
+https://github.com/Ileriayo/markdown-badges?source=post_page-----36957caa711c--------------------------------#tips
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,wordpress,php)](https://skillicons.dev)
 | HTML | CSS | SASS | JavaScript | React | Style-Component | Git |
 <br>
