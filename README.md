@@ -16,7 +16,7 @@ W wolnym czasie gram w gry z gatunku strategiczno-ekonomiczne, survival i RPG. N
 
 </br><h2>Projekty</h2>
 
-<br><p>[🔭🔭🔭Serwis ogłoszeniowy🔭🔭🔭](https://github.com/Paullina26/Serwis_ogloszeniowy)</p>
+<br><p>[🔭🔭🔭Serwis ogłoszeniowy🔭🔭🔭](https://github.com/Paullina26/Serwis_ogloszeniowy)</p>[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/Paullina26/Serwis_ogloszeniowy)
 <br>[![My Skills](https://skillicons.dev/icons?i=html,js,react,styledcomponents,git)](https://skillicons.dev)
 <br>🌱Technologie: JavaScript, React, style-component 
 <br>👯Backend: [Zofia Janas](https://github.com/zoska91)
@@ -25,7 +25,7 @@ W wolnym czasie gram w gry z gatunku strategiczno-ekonomiczne, survival i RPG. N
 <br>⚡Opis projektu: 
 <br> Jest to uproszczona wersja popularnego serwisu ogłoszeniowego. Zawiera kilka kategorii produktów, województwa w polsce i typ ogłoszenia kupno/sprzedaż. 
 <br> Użytkownik może dodadać ogłoszenie, a zalogowany użytkownik ma dodatkowe możliwości takie jak: podgląd dodanych ogłoszeń, dodawanie do polubionych ogłoszeń.
-<br>[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/Paullina26/Serwis_ogloszeniowy)
+
 
 
 
