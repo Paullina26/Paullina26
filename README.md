@@ -10,15 +10,21 @@ W wolnym czasie gram w gry z gatunku strategiczno-ekonomiczne, survival i RPG. N
 <br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,styledcomponents,git)](https://skillicons.dev)
 
-</br><h2>Plany na przyszłość</h2>
-<br><h3>Rozszerzyć umiejęności z zakresu programownia</h3>
-| TypeScript | WordPress | NodeJS | PHP | 
+</br><h2>Plany na rozwój</h2>
+<br><h3>🌱Rozszerzyć umiejęności z zakresu programownia🌱</h3>
+| TypeScript | NodeJS | WordPress | PHP | 
 <br>
-[![My Skills](https://skillicons.dev/icons?i=ts,wordpress,nodejs,php)](https://skillicons.dev)
-<br><h3>Hobby</h3>
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,wordpress,php)](https://skillicons.dev)
+<br>⚡Na pwenym etapie nauki dostrzegłam, że możliwości w programowaniu są ogromne a wybór nie był najprostrzy. Postanowiłam postawić sobie realne cele, których realizacja nie będzie przerażała a dążenie do nich będzie czymś satysfakcjonującym. 
+<br> 
+
+<br><h3>🌱Hobby🌱</h3>
 | Raspberrypi | Python |
 <br>
 [![My Skills](https://skillicons.dev/icons?i=raspberrypi,py)](https://skillicons.dev)
+<br>⚡Jako osoba z zamiłowaniem do technologii i szukająca oszczędności. Chciałam wyposażyć swoje mieszkanie w drobne elementy "smarthome", stąd moja chęć do nauki raspberrypi. 
+<br> Na chwilę obecną rozwijanie hobby odchodzi na dalszy plan, ze względu na piorytety w ścierzce rozwoju kariery, udoskonalanie umiejętności z zakresu Frond-End. 
+
 </br><h2>Statystyki</h2>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paullina26&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Paulina GitHub stats](https://github-readme-stats.vercel.app/api?username=Paullina26&show_icons=true)
