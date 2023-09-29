@@ -16,7 +16,7 @@ W wolnym czasie gram w gry z gatunku strategiczno-ekonomiczne, survival i RPG. N
 
 </br><h2>Projekty</h2>
 
-<br><p>🔭🔭🔭Serwis ogłoszeniowy🔭🔭🔭</p>
+<br><p>[🔭🔭🔭Serwis ogłoszeniowy🔭🔭🔭](https://github.com/Paullina26/Serwis_ogloszeniowy)</p>
 <br>[![My Skills](https://skillicons.dev/icons?i=html,js,react,styledcomponents,git)](https://skillicons.dev)
 <br>🌱Technologie: JavaScript, React, style-component 
 <br>👯Backend: [Zofia Janas](https://github.com/zoska91)
