@@ -29,7 +29,6 @@ W wolnym czasie gram w gry z gatunku strategiczno-ekonomiczne, survival i RPG. N
 
 <br><h3>🌱Hobby🌱</h3>
 <br>
-[![My Skills](https://skillicons.dev/icons?i=raspberrypi,py)](https://skillicons.dev)
 <span>![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)</span>
 <span>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</span>
 <br>⚡Jako osoba z zamiłowaniem do technologii i szukająca oszczędności. Chciałam wyposażyć swoje mieszkanie w drobne elementy "smarthome", stąd moja chęć do nauki raspberrypi. 
