@@ -13,6 +13,17 @@ W wolnym czasie gram w gry z gatunku strategiczno-ekonomiczne, survival i RPG. N
 <br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,styledcomponents,git)](https://skillicons.dev)
 
+</br><h2>Projekty</h2>
+<br><h3>Serwis ogłoszeniowy</h3>
+<br>Status Projektu: W trakcie 
+<br>Technologie: JavaScript, React, style-component [![My Skills](https://skillicons.dev/icons?i=html,js,react,styledcomponents,git)](https://skillicons.dev)
+<br>Cele projektu: 
+-Obsługa użytkowników. 
+-Dodawanie, filtrowanie ogłoszeń. 
+-Komunikacja z bazą danych.
+<br>Opis projektu: 
+Jest to uproszczona wersja popularnego serwisu ogłoszeniowego. 
+
 <br><h2> Kontakt</h2>[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/paulina-golenia26/)
 
 
@@ -25,14 +36,19 @@ W wolnym czasie gram w gry z gatunku strategiczno-ekonomiczne, survival i RPG. N
 </br><h2>Projekty</h2>
 <br><h3>Serwis ogłoszeniowy</h3>
 <br>Status Projektu: W trakcie 
-<br>Technologie: JavaScript, React, style-component
+<br>Technologie: JavaScript, React, style-component [![My Skills](https://skillicons.dev/icons?i=html,js,react,styledcomponents,git)](https://skillicons.dev)
 <br>Cele projektu: 
-Obsługa użytkowników. Dodawanie, filtrowanie ogłoszeń. Komunikacja z bazą danych.
+-Obsługa użytkowników. 
+-Dodawanie, filtrowanie ogłoszeń. 
+-Komunikacja z bazą danych.
 <br>Opis projektu: 
-Jest to uproszczona wersja popularnego serwisu ogłoszeniowego.  
+Jest to uproszczona wersja popularnego serwisu ogłoszeniowego. 
 <br><h3>Karty Star Wars</h3>
-<br>![GitHub metrics](https://metrics.lecoq.io/Paullina26)  
-**Paullina26/Paullina26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+EN
+I am fascinated by the world of technology and its progress over the years. I excel in tasks where I can analyze and solve problems. I enjoy working in areas that make work more efficient. Testing new solutions and actively participating in their improvement gives me satisfaction. In my free time, I play strategic-economic, survival, and RPG games. I prefer playing in co-op mode, as it has allowed me to see how communication and planning of joint actions impact the success of the whole group.
+
 
 Here are some ideas to get you started:
 
