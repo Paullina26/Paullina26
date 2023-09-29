@@ -51,7 +51,7 @@ W wolnym czasie gram w gry z gatunku strategiczno-ekonomiczne, survival i RPG. N
 </br><h2>Statystyki</h2>
 <br>
 <span>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paullina26&theme=blue-green)</span>
-<span>![Paulina GitHub stats](https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green)</span>
+<span>![Paulina GitHub stats](https://github-readme-stats.vercel.app/api?username=Paullina26&theme=blue-green)</span>
 
 
 
