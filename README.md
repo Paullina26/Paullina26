@@ -21,7 +21,10 @@ W wolnym czasie gram w gry z gatunku strategiczno-ekonomiczne, survival i RPG. N
 <br><h3>🌱Rozszerzyć umiejęności z zakresu programownia🌱</h3>
 | TypeScript | NodeJS | WordPress | PHP | 
 <br>
-[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,wordpress,php)](https://skillicons.dev)
+<span>![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)</span>
+<span>![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)</span>
+<span>![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)</span>
+<span>![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)</span>
 <br>⚡Na pwenym etapie nauki dostrzegłam, że możliwości w programowaniu są ogromne a wybór nie był najprostrzy. Postanowiłam postawić sobie realne cele, których realizacja nie będzie przerażała a dążenie do nich będzie czymś satysfakcjonującym. 
 <br> 
 
@@ -39,7 +42,6 @@ W wolnym czasie gram w gry z gatunku strategiczno-ekonomiczne, survival i RPG. N
 <span>![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</span>
 <span>![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)</span>
 <span>![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)</span>
-
 <br>🌱Technologie: JavaScript, React, style-component 
 <br>👯Backend: [Zofia Janas](https://github.com/zoska91)
 <br>⚡Status Projektu: W trakcie 
@@ -60,7 +62,7 @@ W wolnym czasie gram w gry z gatunku strategiczno-ekonomiczne, survival i RPG. N
 
 
 <!--
-
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,wordpress,php)](https://skillicons.dev)
 | HTML | CSS | SASS | JavaScript | React | Style-Component | Git |
 <br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,styledcomponents,git)](https://skillicons.dev)
