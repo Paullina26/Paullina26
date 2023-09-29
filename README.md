@@ -13,8 +13,9 @@ W wolnym czasie gram w gry z gatunku strategiczno-ekonomiczne, survival i RPG. N
 <br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,styledcomponents,git)](https://skillicons.dev)
 
+
 </br><h2>Projekty</h2>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <br><p>🔭🔭🔭Serwis ogłoszeniowy🔭🔭🔭</p>
 <br>[![My Skills](https://skillicons.dev/icons?i=html,js,react,styledcomponents,git)](https://skillicons.dev)
 <br>🌱Technologie: JavaScript, React, style-component 
