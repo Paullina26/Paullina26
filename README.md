@@ -10,7 +10,7 @@ W wolnym czasie gram w gry z gatunku strategiczno-ekonomiczne, survival i RPG. N
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,styledcomponents,git)](https://skillicons.dev)
 
 </br><h2>Statystyki</h2>
-![Paulina GitHub stats](https://github-readme-stats.vercel.app/api?username=Paullina26&show_icons=true&theme=transparent)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paullina26&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+![Paulina GitHub stats](https://github-readme-stats.vercel.app/api?username=Paullina26&show_icons=true&theme=transparent)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paullina26)](https://github.com/anuraghazra/github-readme-stats)
 
 </br><h2>Projekty</h2>
 
