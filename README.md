@@ -13,7 +13,7 @@ W wolnym czasie gram w gry z gatunku strategiczno-ekonomiczne, survival i RPG. N
 </br><h2>Statystyki</h2>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paullina26&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Paulina GitHub stats](https://github-readme-stats.vercel.app/api?username=Paullina26&show_icons=true)
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Paullina26)](https://github.com/anuraghazra/github-readme-stats)
+
 </br><h2>Projekty</h2>
 <br><p>🔭🔭🔭Serwis ogłoszeniowy🔭🔭🔭</p>
 <br>[![My Skills](https://skillicons.dev/icons?i=html,js,react,styledcomponents,git)](https://skillicons.dev)
