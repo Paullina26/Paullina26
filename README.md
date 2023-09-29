@@ -18,13 +18,16 @@ W wolnym czasie gram w gry z gatunku strategiczno-ekonomiczne, survival i RPG. N
 <br><h3>Rozszerzyć umiejęności z zakresu programownia</h3>
 <br>
 <span>![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)</span>
+<span>![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)</span>
 <span>![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)</span>
+<span>![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</span>
 <span>![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)</span>
 <span>![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)</span>
-<br>📝Na pwenym etapie nauki dostrzegłam, że możliwości w programowaniu są ogromne a wybór nie był najprostrzy. Postanowiłam postawić sobie realne cele, których realizacja nie będzie przerażała a dążenie do nich będzie czymś satysfakcjonującym. 
+<span>![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)</span>
+<br>📝Na pwenym etapie nauki dostrzegłam, że możliwości w programowaniu są ogromne a wybór nie był najprostrzy. Postanowiłam postawić sobie cele, których realizacja nie będzie przerażała a dążenie do nich będzie czymś satysfakcjonującym. 
 <br> 
 
-<br><h3>Hobby</h3>
+<br><h3>Hobbystyczne Plany</h3>
 <br>
 <span>![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)</span>
 <span>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</span>
@@ -59,10 +62,16 @@ W wolnym czasie gram w gry z gatunku strategiczno-ekonomiczne, survival i RPG. N
 
 
 <!--
-<span></span>
-<span>![Paulina GitHub stats](https://github-readme-stats.vercel.app/api?username=Paullina26&show_icons=true&theme=transparent)</span>
 ICON:
 https://github.com/Ileriayo/markdown-badges?source=post_page-----36957caa711c--------------------------------#tips
+<span></span>
+<span>![Paulina GitHub stats](https://github-readme-stats.vercel.app/api?username=Paullina26&show_icons=true&theme=transparent)</span>
+REACT ROUTER ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+
+
+
+
+
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,wordpress,php)](https://skillicons.dev)
 | HTML | CSS | SASS | JavaScript | React | Style-Component | Git |
 <br>
