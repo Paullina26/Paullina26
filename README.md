@@ -6,13 +6,10 @@ W wolnym czasie gram w gry z gatunku strategiczno-ekonomiczne, survival i RPG. N
 <br>[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/paulina-golenia26/)
 
 </br><h2>Umiejętności</h2>
-| HTML | CSS | SASS | JavaScript | React | Style-Component | Git |
+
 <br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<br>
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,styledcomponents,git)](https://skillicons.dev)
-<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paullina26&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </br><h2>Plany na rozwój</h2>
 <br><h3>🌱Rozszerzyć umiejęności z zakresu programownia🌱</h3>
@@ -53,6 +50,12 @@ W wolnym czasie gram w gry z gatunku strategiczno-ekonomiczne, survival i RPG. N
 
 
 <!--
+
+| HTML | CSS | SASS | JavaScript | React | Style-Component | Git |
+<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,styledcomponents,git)](https://skillicons.dev)
+<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paullina26&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Paullina26)](https://github.com/anuraghazra/github-readme-stats)
 </br><h2>Projekty</h2>
 <br><h3>Serwis ogłoszeniowy</h3>
