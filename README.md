@@ -25,7 +25,8 @@ W wolnym czasie gram w gry z gatunku strategiczno-ekonomiczne, survival i RPG. N
 <br>⚡Opis projektu: 
 <br> Jest to uproszczona wersja popularnego serwisu ogłoszeniowego. Zawiera kilka kategorii produktów, województwa w polsce i typ ogłoszenia kupno/sprzedaż. 
 <br> Użytkownik może dodadać ogłoszenie, a zalogowany użytkownik ma dodatkowe możliwości takie jak: podgląd dodanych ogłoszeń, dodawanie do polubionych ogłoszeń.
-[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+<br>[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/Paullina26/Serwis_ogloszeniowy)
+
 
 
 <br><h2> Kontakt</h2>[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/paulina-golenia26/)
