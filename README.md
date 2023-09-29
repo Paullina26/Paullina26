@@ -11,10 +11,14 @@ W wolnym czasie gram w gry z gatunku strategiczno-ekonomiczne, survival i RPG. N
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,styledcomponents,git)](https://skillicons.dev)
 
 </br><h2>Plany na przyszłość</h2>
-| HTML | CSS | SASS | JavaScript | Ract | Style-Component | Git |
+<br><h3>Rozszerzyć umiejęności z zakresu programownia</h3>
+| TypeScript | WordPress | NodeJS | PHP | 
 <br>
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,styledcomponents,git)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=ts,wordpress,nodejs,php)](https://skillicons.dev)
+<br><h3>Hobby</h3>
+| Raspberrypi | Python |
+<br>
+[![My Skills](https://skillicons.dev/icons?i=raspberrypi,py)](https://skillicons.dev)
 </br><h2>Statystyki</h2>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paullina26&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Paulina GitHub stats](https://github-readme-stats.vercel.app/api?username=Paullina26&show_icons=true)
