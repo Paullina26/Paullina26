@@ -14,14 +14,14 @@ W wolnym czasie gram w gry z gatunku strategiczno-ekonomiczne, survival i RPG. N
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,styledcomponents,git)](https://skillicons.dev)
 
 </br><h2>Projekty</h2>
-<br><h3>Serwis ogłoszeniowy</h3>
+<br><p>Serwis ogłoszeniowy</p>
 <br>[![My Skills](https://skillicons.dev/icons?i=html,js,react,styledcomponents,git)](https://skillicons.dev)
 <br>Status Projektu: W trakcie 
 <br>Technologie: JavaScript, React, style-component 
 <br>Cele projektu: 
--Obsługa użytkowników. 
--Dodawanie, filtrowanie ogłoszeń. 
--Komunikacja z bazą danych.
+<br>-Obsługa użytkowników. 
+<br>-Dodawanie, filtrowanie ogłoszeń. 
+<br>-Komunikacja z bazą danych.
 <br>Opis projektu: 
 Jest to uproszczona wersja popularnego serwisu ogłoszeniowego. 
 
