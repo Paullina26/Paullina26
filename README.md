@@ -35,7 +35,11 @@ W wolnym czasie gram w gry z gatunku strategiczno-ekonomiczne, survival i RPG. N
 </br><h2>Projekty</h2>
 
 <br><h3>[🔭🔭🔭Serwis ogłoszeniowy🔭🔭🔭](https://github.com/Paullina26/Serwis_ogloszeniowy)</h3>
-<br>[![My Skills](https://skillicons.dev/icons?i=html,js,react,styledcomponents,git)](https://skillicons.dev)
+<span>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</span>
+<span>![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</span>
+<span>![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)</span>
+<span>![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)</span>
+
 <br>🌱Technologie: JavaScript, React, style-component 
 <br>👯Backend: [Zofia Janas](https://github.com/zoska91)
 <br>⚡Status Projektu: W trakcie 
