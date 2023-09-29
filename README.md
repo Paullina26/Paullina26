@@ -15,7 +15,7 @@ W wolnym czasie gram w gry z gatunku strategiczno-ekonomiczne, survival i RPG. N
 ![Paulina GitHub stats](https://github-readme-stats.vercel.app/api?username=Paullina26&show_icons=true)
 
 </br><h2>Projekty</h2>
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Paullina26)](https://github.com/anuraghazra/github-readme-stats)
+
 <br><p>🔭🔭🔭Serwis ogłoszeniowy🔭🔭🔭</p>
 <br>[![My Skills](https://skillicons.dev/icons?i=html,js,react,styledcomponents,git)](https://skillicons.dev)
 <br>🌱Technologie: JavaScript, React, style-component 
@@ -55,6 +55,7 @@ W wolnym czasie gram w gry z gatunku strategiczno-ekonomiczne, survival i RPG. N
 
 
 <!--
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Paullina26)](https://github.com/anuraghazra/github-readme-stats)
 </br><h2>Projekty</h2>
 <br><h3>Serwis ogłoszeniowy</h3>
 <br>Status Projektu: W trakcie 
