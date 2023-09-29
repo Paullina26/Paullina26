@@ -50,8 +50,10 @@ W wolnym czasie gram w gry z gatunku strategiczno-ekonomiczne, survival i RPG. N
 
 </br><h2>Statystyki</h2>
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paullina26&theme=blue-green)
-![Paulina GitHub stats](https://github-readme-stats.vercel.app/api?username=Paullina26&show_icons=true&theme=transparent)
+<span>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paullina26&theme=blue-green)</span>
+<span>![Paulina GitHub stats](https://github-readme-stats.vercel.app/api?username=Paullina26&show_icons=true&theme=transparent)</span>
+
+
 
 
 
@@ -59,6 +61,7 @@ W wolnym czasie gram w gry z gatunku strategiczno-ekonomiczne, survival i RPG. N
 
 
 <!--
+<span></span>
 ICON:
 https://github.com/Ileriayo/markdown-badges?source=post_page-----36957caa711c--------------------------------#tips
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,wordpress,php)](https://skillicons.dev)
