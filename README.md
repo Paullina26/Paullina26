@@ -8,8 +8,6 @@ W wolnym czasie gram w gry z gatunku strategiczno-ekonomiczne, survival i RPG. N
 </br><h2>Umiejętności</h2>
 | HTML | CSS | SASS | JavaScript | Ract | Style-Component | Git |
 <br>
-
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paullina26&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </br><h2>Statystyki</h2>
