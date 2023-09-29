@@ -14,16 +14,28 @@ W wolnym czasie gram w gry z gatunku strategiczno-ekonomiczne, survival i RPG. N
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,styledcomponents,git)](https://skillicons.dev)
 
 </br><h2>Projekty</h2>
-<br><p>Serwis ogłoszeniowy</p>
+<br>🔭<p>Serwis ogłoszeniowy</p>🔭
+<br> Backend: Zofia Janas 
 <br>[![My Skills](https://skillicons.dev/icons?i=html,js,react,styledcomponents,git)](https://skillicons.dev)
-<br>Status Projektu: W trakcie 
-<br>Technologie: JavaScript, React, style-component 
-<br>Cele projektu: 
-<br>-Obsługa użytkowników. 
-<br>-Dodawanie, filtrowanie ogłoszeń. 
-<br>-Komunikacja z bazą danych.
-<br>Opis projektu: 
-Jest to uproszczona wersja popularnego serwisu ogłoszeniowego. 
+<br>⚡Status Projektu: W trakcie 
+<br>🌱Technologie: JavaScript, React, style-component 
+<br>🌱Cele projektu: 
+<br>- Obsługa użytkowników. 
+<br>Użytkownik zalogowany, może przeglądać dodane przez siebie ogłoszenia i dodawać do polubionych. 
+<br>- Dodawanie, filtrowanie i wyświetlanie ogłoszeń.
+<br> Ogłoszenia są pobierane z bazy danych i wyświetlane na stronie głównej. 
+<br>- Komunikacja z bazą danych.
+<br> Aktualizacja ogłoszeń w bazie danych, pobieranie ogłoszeń z bazy danych i ich filtrowanie. 
+<br>- Operacje na tablicach 
+<br>🌱Projekt pozwolił mi na przeciwiczenie umiejętności:
+<br>- Operacji na tablicach map, filter, scalanie tablic, tworzenie nowych tablic by nie zmieniać bazowej tablicy. 
+<br>- Zarządzanie stanem komponentu 
+<br>- 
+<br>⚡Opis projektu: 
+<br>Jest to uproszczona wersja popularnego serwisu ogłoszeniowego. Zawiera kilka kategorii produktów, województwa w polsce i typ ogłoszenia kupno/sprzedaż. 
+<br>Użytkownik może dodadać ogłoszenie, a zalogowany użytkownik ma dodatkowe możliwości takie jak: podgląd dodanych ogłoszeń, dodawanie do polubionych ogłoszeń. 
+<br> 
+
 
 <br><h2> Kontakt</h2>[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/paulina-golenia26/)
 
