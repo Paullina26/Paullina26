@@ -17,8 +17,8 @@ W wolnym czasie gram w gry z gatunku strategiczno-ekonomiczne, survival i RPG. N
 
 
 
-</br><h2>🚀🚀Plany na rozwój🚀🚀</h2>
-<br><h3>🚀Rozszerzyć umiejęności z zakresu programownia</h3>
+</br><h2>🚀Plany na rozwój🚀</h2>
+<br><h3>Rozszerzyć umiejęności z zakresu programownia</h3>
 <br>
 <span>![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)</span>
 <span>![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)</span>
@@ -27,7 +27,7 @@ W wolnym czasie gram w gry z gatunku strategiczno-ekonomiczne, survival i RPG. N
 <br>📝Na pwenym etapie nauki dostrzegłam, że możliwości w programowaniu są ogromne a wybór nie był najprostrzy. Postanowiłam postawić sobie realne cele, których realizacja nie będzie przerażała a dążenie do nich będzie czymś satysfakcjonującym. 
 <br> 
 
-<br><h3>🚀Hobby</h3>
+<br><h3>Hobby</h3>
 <br>
 <span>![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)</span>
 <span>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</span>
