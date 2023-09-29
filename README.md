@@ -18,7 +18,7 @@ W wolnym czasie gram w gry z gatunku strategiczno-ekonomiczne, survival i RPG. N
 <br><p>🔭🔭🔭Serwis ogłoszeniowy🔭🔭🔭</p>
 <br>[![My Skills](https://skillicons.dev/icons?i=html,js,react,styledcomponents,git)](https://skillicons.dev)
 <br>🌱Technologie: JavaScript, React, style-component 
-<br>👯Backend: Zofia Janas 
+<br>👯Backend: [Zofia Janas](https://github.com/zoska91)
 <br>⚡Status Projektu: W trakcie 
 <br>
 <br>⚡Opis projektu: 
