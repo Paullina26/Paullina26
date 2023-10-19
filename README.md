@@ -14,7 +14,7 @@ In my free time, I play games. Specialy strategy, economics, survival and RPG. I
 <span>![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)</span>
 <span>![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)</span>
 
-</br><h2>Development plans</h2>
+</br><h2> :point_right: Development plans :point_left: </h2>
 <br>**⚡Expand your programming skills:⚡**
 <br>
 <span>![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)</span>
