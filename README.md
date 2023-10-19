@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Paulina. 
-:octocat: I'm fascinated by the world of technology and it has been progressed over the years. I enjoy solving logical problems and improving areas that can make work more efficient.
+:octocat: I'am fascinated by the world of technology and how it developed over the years. I enjoy solving logical problems and improving areas that can make work more efficient.
 In my free time, I play games. Specialy strategy, economics, survival and RPG. I often play in co-op mode, and noticed that comunication and collaborative planing have huge impact on the success of a group. 
 <br>
 <br>[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/paulina-golenia26/)
