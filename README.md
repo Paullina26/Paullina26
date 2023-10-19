@@ -37,7 +37,7 @@ In my free time, I play games. Specialy strategy, economics, survival and RPG. I
 <br>
 
 </br><h2> :point_right: Projects :point_left: </h2>
-<br><h3>[🔭Advertising service🔭](https://github.com/Paullina26/Serwis_ogloszeniowy)</h3>
+<br><h3>[:green_circle:Advertising service:green_circle:](https://github.com/Paullina26/Serwis_ogloszeniowy)</h3>
 <span>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</span>
 <span>![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</span>
 <span>![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)</span>
