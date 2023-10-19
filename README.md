@@ -4,7 +4,7 @@ In my free time, I play games. Specialy strategy, economics, survival and RPG. I
 <br>
 <br>[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/paulina-golenia26/)
 
-</br><h2>SKILLS</h2>
+</br><h2> :octocat: SKILLS :octocat: </h2>
 <span>![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</span>
 <span>![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)</span>
 <span>![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)</span>
@@ -27,7 +27,7 @@ In my free time, I play games. Specialy strategy, economics, survival and RPG. I
 <br>📝At some point in my learning journey, I realized that the possibilities in programming are vast, and the choices aren't always straightforward. Therefore, I decided to set specific goals that are grounded in reality and, at the same time, will enhance my skills. This approach prevents me from getting caught up in every new trend but, instead, I aim to thoroughly master the fundamentals, which, in turn, makes it easier for me to dive into other technologies. My development plans are a way of demonstrating that I have a clear path for personal growth and a specific goal I want to achieve.📝
 <br>
 <br> 
-<br>**⚡:octocat: Hobby plans for skill development::octocat:⚡**
+<br>**⚡Hobby plans for skill development:⚡**
 <br>
 <span>![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)</span>
 <span>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</span>
