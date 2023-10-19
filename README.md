@@ -17,6 +17,8 @@ In my free time, I play games. Specialy strategy, economics, survival and RPG. I
 </br><h2> :point_right: Development plans :point_left: </h2>
 <br>**⚡Expand your programming skills:⚡**
 <br>
+<br>
+
 <span>![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)</span>
 <span>![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)</span>
 <span>![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</span>
@@ -29,6 +31,8 @@ In my free time, I play games. Specialy strategy, economics, survival and RPG. I
 <br> 
 <br>**⚡Hobby plans for skill development:⚡** 
 <br>
+<br>
+
 <span>![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)</span>
 <span>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</span>
 <br>
