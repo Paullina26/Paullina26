@@ -15,9 +15,9 @@ In my free time, I play games in the genres of strategy, economics, survival, an
 <span>![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)</span>
 
 </br><h2>Development plans</h2>
-<br>Expand your programming skills:
+<br>⚡Expand your programming skills:⚡
 <br>
-<br>📝At some point in my learning journey, I realized that the possibilities in programming are vast, and the choices aren't always straightforward. Therefore, I decided to set specific goals that are grounded in reality and, at the same time, will enhance my skills. This approach prevents me from getting caught up in every new trend but, instead, I aim to thoroughly master the fundamentals, which, in turn, makes it easier for me to dive into other technologies. My development plans are a way of demonstrating that I have a clear path for personal growth and a specific goal I want to achieve.
+<br>📝At some point in my learning journey, I realized that the possibilities in programming are vast, and the choices aren't always straightforward. Therefore, I decided to set specific goals that are grounded in reality and, at the same time, will enhance my skills. This approach prevents me from getting caught up in every new trend but, instead, I aim to thoroughly master the fundamentals, which, in turn, makes it easier for me to dive into other technologies. My development plans are a way of demonstrating that I have a clear path for personal growth and a specific goal I want to achieve.📝
 <br>
 <span>![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)</span>
 <span>![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)</span>
@@ -27,7 +27,7 @@ In my free time, I play games in the genres of strategy, economics, survival, an
 <span>![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)</span>
 <br>
 <br> ----------------------------------------------------------------------------------------------------
-<br>Hobby plans for skill development:
+<br>⚡Hobby plans for skill development:⚡
 <br>
 <span>![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)</span>
 <span>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</span>
