@@ -1,10 +1,10 @@
 ### Hi 👋, I'm Paulina. 
-I'm fascinated by the world of technology and it has been progressed over the years. I enjoy solving logical problems and improving areas that can make work more efficient.
+:octocat: I'm fascinated by the world of technology and it has been progressed over the years. I enjoy solving logical problems and improving areas that can make work more efficient.
 In my free time, I play games. Specialy strategy, economics, survival and RPG. I often play in co-op mode, and noticed that comunication and collaborative planing have huge impact on the success of a group. 
 <br>
 <br>[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/paulina-golenia26/)
 
-</br><h2> :octocat: SKILLS :octocat: </h2>
+</br><h2>  :point_right: SKILLS :point_left: </h2>
 <span>![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</span>
 <span>![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)</span>
 <span>![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)</span>
@@ -36,7 +36,7 @@ In my free time, I play games. Specialy strategy, economics, survival and RPG. I
 <br>
 <br>
 
-</br><h2>Projects</h2>
+</br><h2> :point_right: Projects :point_left: </h2>
 <br><h3>[🔭Advertising service🔭](https://github.com/Paullina26/Serwis_ogloszeniowy)</h3>
 <span>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</span>
 <span>![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</span>
