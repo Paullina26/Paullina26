@@ -17,14 +17,15 @@ In my free time, I play games in the genres of strategy, economics, survival, an
 </br><h2>Development plans</h2>
 <br>⚡Expand your programming skills:⚡
 <br>
-<br>📝At some point in my learning journey, I realized that the possibilities in programming are vast, and the choices aren't always straightforward. Therefore, I decided to set specific goals that are grounded in reality and, at the same time, will enhance my skills. This approach prevents me from getting caught up in every new trend but, instead, I aim to thoroughly master the fundamentals, which, in turn, makes it easier for me to dive into other technologies. My development plans are a way of demonstrating that I have a clear path for personal growth and a specific goal I want to achieve.📝
-<br>
+
 <span>![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)</span>
 <span>![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)</span>
 <span>![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</span>
 <span>![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)</span>
 <span>![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)</span>
 <span>![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)</span>
+<br>
+<br>📝At some point in my learning journey, I realized that the possibilities in programming are vast, and the choices aren't always straightforward. Therefore, I decided to set specific goals that are grounded in reality and, at the same time, will enhance my skills. This approach prevents me from getting caught up in every new trend but, instead, I aim to thoroughly master the fundamentals, which, in turn, makes it easier for me to dive into other technologies. My development plans are a way of demonstrating that I have a clear path for personal growth and a specific goal I want to achieve.📝
 <br>
 <br> 
 <br>⚡Hobby plans for skill development:⚡
