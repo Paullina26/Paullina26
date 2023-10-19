@@ -17,7 +17,6 @@ In my free time, I play games in the genres of strategy, economics, survival, an
 </br><h2>Development plans</h2>
 <br>⚡Expand your programming skills:⚡
 <br>
-
 <span>![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)</span>
 <span>![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)</span>
 <span>![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</span>
@@ -32,7 +31,11 @@ In my free time, I play games in the genres of strategy, economics, survival, an
 <br>
 <span>![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)</span>
 <span>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</span>
+<br>
 <br>📝As a technology enthusiast and someone looking to save money, I wanted to equip my home with small "smart home" elements, which is why I was interested in learning Raspberry Pi. At the moment, pursuing this hobby has taken a backseat due to career development priorities and honing my Front-End skills.
+<br>
+<br>
+
 </br><h2>Projects</h2>
 <br><h3>[🔭Advertising service🔭](https://github.com/Paullina26/Serwis_ogloszeniowy)</h3>
 <span>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</span>
