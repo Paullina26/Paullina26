@@ -1,5 +1,5 @@
 ### Hi 👋, I`m Paulina. 
-I`m fascinated by the world of technology and it`s progress over the years. I excel in tasks that involve analysis to solve problems. I am eager to work in areas that can make work more efficient. Testing new solutions and actively participating in their improvement gives me satisfaction.
+Im fascinated by the world of technology and its progress over the years. I excel in tasks that involve analysis to solve problems. I am eager to work in areas that can make work more efficient. Testing new solutions and actively participating in their improvement gives me satisfaction.
 In my free time, I play games in the genres of strategy, economics, survival, and RPG. I prefer to play in co-op mode, as it has allowed me to see how communication and collaborative planning impact the success of the entire group.
 <br>
 <br>[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/paulina-golenia26/)
