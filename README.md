@@ -26,7 +26,7 @@ In my free time, I play games in the genres of strategy, economics, survival, an
 <span>![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)</span>
 <span>![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)</span>
 <br>
-<br> ----------------------------------------------------------------------------------------------------
+<br> 
 <br>⚡Hobby plans for skill development:⚡
 <br>
 <span>![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)</span>
