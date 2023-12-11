@@ -4,7 +4,7 @@ In my free time, I play games. Specialy strategy, economics, survival and RPG. I
 <br>
 <br>[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/paulina-golenia26/)
 
-</br><h2>  :point_right: SKILLS :point_left: </h2>
+</br><h2> SKILLS  </h2>
 <span>![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</span>
 <span>![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)</span>
 <span>![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)</span>
@@ -14,7 +14,7 @@ In my free time, I play games. Specialy strategy, economics, survival and RPG. I
 <span>![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)</span>
 <span>![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)</span>
 
-</br><h2> :point_right: Development plans :point_left: </h2>
+</br><h2>  Development plans  </h2>
 <br>**⚡Programming skills development plan:⚡**
 <br>
 <span>![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)</span>
@@ -36,7 +36,7 @@ In my free time, I play games. Specialy strategy, economics, survival and RPG. I
 <br>
 <br>
 
-</br><h2> :point_right: Projects :point_left: </h2>
+</br><h2> Projects </h2>
 <br><h3>[Advertising service](https://github.com/Paullina26/Serwis_ogloszeniowy)</h3>
 <span>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</span>
 <span>![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</span>
