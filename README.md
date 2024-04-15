@@ -14,6 +14,19 @@ In my free time, I play games. Specialy strategy, economics, survival and RPG. I
 <span>![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)</span>
 <span>![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)</span>
 
+
+
+</br><h2>Statistics</h2>
+<br>
+<span>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paullina26&theme=blue-green)</span>
+<span>![Paulina GitHub stats](https://github-readme-stats.vercel.app/api?username=Paullina26&theme=blue-green)</span>
+
+
+
+
+
+<!--
+
 </br><h2>  Development plans  </h2>
 <br>**⚡Programming skills development plan:⚡**
 <br>
@@ -37,16 +50,8 @@ In my free time, I play games. Specialy strategy, economics, survival and RPG. I
 <br>
 
 
-</br><h2>Statistics</h2>
-<br>
-<span>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paullina26&theme=blue-green)</span>
-<span>![Paulina GitHub stats](https://github-readme-stats.vercel.app/api?username=Paullina26&theme=blue-green)</span>
 
 
-
-
-
-<!--
 ICON:
 https://github.com/Ileriayo/markdown-badges?source=post_page-----36957caa711c--------------------------------#tips
 <span></span>
