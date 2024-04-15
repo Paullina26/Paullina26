@@ -36,18 +36,6 @@ In my free time, I play games. Specialy strategy, economics, survival and RPG. I
 <br>
 <br>
 
-</br><h2> Projects </h2>
-<br><h3>[Advertising service](https://github.com/Paullina26/Serwis_ogloszeniowy)</h3>
-<span>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</span>
-<span>![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</span>
-<span>![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)</span>
-<span>![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)</span>
-<br>👯Backend: [Zofia Janas](https://github.com/zoska91)
-<br>📝Project description: 
-<br>This is a simplified version of a popular advertising website. It contains several product categories, voivodeships in Poland and the type of purchase/sale advertisement.
-The user can add an advertisement, and the logged-in user has additional options such as: preview of added advertisements, adding to liked advertisements.
-<br><p>[More information](https://github.com/Paullina26/Serwis_ogloszeniowy)</p>
-
 
 </br><h2>Statistics</h2>
 <br>
