@@ -1,4 +1,4 @@
-### Hi 👋, I'm Paulina. 
+### ![Hi 👋, I'm Paulina.](https://paulina-golenia.pl)
 :octocat: I'am fascinated by the world of technology and how it developed over the years. I enjoy solving logical problems and improving areas that can make work more efficient.
 In my free time, I play games. Specialy strategy, economics, survival and RPG. I often play in co-op mode, and noticed that comunication and collaborative planing have huge impact on the success of a group. 
 <br>
@@ -13,7 +13,6 @@ In my free time, I play games. Specialy strategy, economics, survival and RPG. I
 <span>![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</span>
 <span>![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)</span>
 <span>![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)</span>
-
 
 
 </br><h2>Statistics</h2>
